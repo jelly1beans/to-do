@@ -1,6 +1,6 @@
 {
   "name": "To-Do List App",
-  "short_name": "ToDo",
+  "short_name": "To-Do List",
   "start_url": ".",
   "display": "standalone",
   "background_color": " #ece9ce",
@@ -18,4 +18,5 @@
       "type": "image/png"
     }
   ]
+
 }
